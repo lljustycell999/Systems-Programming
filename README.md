@@ -41,5 +41,13 @@ You should output all information to stdout in the following format:
 
 * Once you read -1, output on a single line the miss rate of the cache that you have calculated, followed by a space, followed by the total cycles spent during the simulation. Remember to complete this last output line with a newline character, then exit the simulation.
 
+LFU Demo:
+Input Example: <img width="56" alt="Screen Shot 2024-01-15 at 3 23 48 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/606dc5e4-d47f-4c36-8502-f620e7e132c9">
+Output Example: <img width="54" alt="Screen Shot 2024-01-15 at 3 24 40 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/502fcf92-dc46-42b6-ba23-ff6586018f2d">
+
+LRU Demo:
+Input Example: <img width="42" alt="Screen Shot 2024-01-15 at 3 26 34 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/a1279e25-148c-42b4-9a48-db8ce8cea6ca">
+Output Example: <img width="60" alt="Screen Shot 2024-01-15 at 3 26 44 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/6ec2dd5c-3255-4d93-a0b9-653389c64c3c">
+
 # Lab 4 Specification:
 The specifications for Lab 4 is available in the Lab 4 folder under the name shlab.pdf.
