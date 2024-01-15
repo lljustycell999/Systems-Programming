@@ -23,55 +23,7 @@ After the above is read from stdin, the game should continue reading game comman
 
 Make sure you use as few globals as possible. You must not use global arrays or global structs; you are allowed to use up to three global pointers and a global int for the respect value.
 
-Here is an example input block:
-
-3  
-0 -1 1 -1 2
-2 0 -1 -1 -1
-2 -1 -1 0 -1
-4
-1 0
-0 2
-2 2
-2 1
-look
-clean
-2:clean
-east
-look
-0:clean
-look
-exit
-
-To that input corresponds the following output:
-
-Room 2, dirty, neighbors 0 to the east, contains:
-
-PC
-
-human 2
-
-2 grumbles. Respect is now 39
-
-2 grumbles a lot. Respect is now 36
-2 leaves towards the east.
-
-You leave towards the east.
-
-Room 0, half-dirty, neighbors 1 to the south 2 to the west, contains:
-animal 0
-PC
-human 2
-
-0 licks your face a lot. Respect is now 39
-2 grumbles. Respect is now 38
-2 leaves towards the south
-
-Room 0, clean, neighbors 1 to the south 2 to the west, contains:
-animal 0
-PC
-
-Goodbye!
+<img width="440" alt="Screen Shot 2024-01-15 at 2 43 50 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/1cad3368-27da-4faa-8fd3-9cf01a69771a">
 
 # CSC 322 Lab 2 Specification:
 
