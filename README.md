@@ -37,8 +37,9 @@ When your simulator starts, it should take from stdin (so no files are opened/cl
 
 You should output all information to stdout in the following format:
 
-For each address you read (except the final -1), output a line containing the address itself (in hex form), followed by a space, followed by a single character: H for cache hit or M for cache miss.
+* For each address you read (except the final -1), output a line containing the address itself (in hex form), followed by a space, followed by a single character: H for cache hit or M for cache miss.
 
-Once you read -1, output on a single line the miss rate of the cache that you have calculated, followed by a space, followed by the total cycles spent during the simulation. Remember to complete this last output line with a newline character, then exit the simulation.
+* Once you read -1, output on a single line the miss rate of the cache that you have calculated, followed by a space, followed by the total cycles spent during the simulation. Remember to complete this last output line with a newline character, then exit the simulation.
 
 # Lab 4 Specification:
+The specifications for Lab 4 is available in the Lab 4 folder under the name shlab.pdf.
