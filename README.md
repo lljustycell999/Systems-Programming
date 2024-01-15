@@ -23,7 +23,7 @@ Make sure you use as few globals as possible. You must not use global arrays or 
 Warning: There is an infinite loop bug in my project that occurs if the player decides to move in a direction that instantly takes you back to the same room you just left (For example, you are in room 0 and moving in a certain direction sends you back to room 0 immediately). 
 
 # Lab 2 Specification:
-The specifications for Lab 2 is available in the Lab 2 Folder entitled bomblab.pdf. No code is required for this lab.
+The specifications for Lab 2 is available in the Lab 2 folder under the name bomblab.pdf. No code is required for this lab.
 
 # Lab 3 Specification:
 This is your cache lab. It consists of implementing a cache simulator given various parameters, and then watching it perform under different circumstances. To make things simple, you'll only be dealing with reads.
