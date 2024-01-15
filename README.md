@@ -43,6 +43,7 @@ You should output all information to stdout in the following format:
 
 LFU Demo:
 Input Example:
+
 <img width="56" alt="Screen Shot 2024-01-15 at 3 23 48 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/606dc5e4-d47f-4c36-8502-f620e7e132c9">
 
 Output Example:
