@@ -1,7 +1,7 @@
 # CSC 322 - Systems Programming
 This repository contains the projects completed as part of the CSC 322 - Systems Programming course at SUNY Oswego taught by Professor Aleksander Pantaleev.
 
-# CSC 322 Lab 1 Specification:
+# Lab 1 Specification:
 This is your C lab. It consists of programming a small text-based game purely in C. The game was designed for OOP, which C does not support naturally. Thus this lab will simultaneously teach you the specifics of the C language, and the difference between structured programming and OOP.
 
 You can find a complete description of the project in this pdf document (CSC 322 Lab 1 Notes.pdf).
@@ -22,10 +22,10 @@ Make sure you use as few globals as possible. You must not use global arrays or 
 
 Warning: There is an infinite loop bug in my project that occurs if the player decides to move in a direction that instantly takes you back to the same room you just left (For example, you are in room 0 and moving in a certain direction sends you back to room 0 immediately). 
 
-# CSC 322 Lab 2 Specification:
+# Lab 2 Specification:
 The specifications for Lab 2 is available in the Lab 2 Folder entitled bomblab.pdf. No code is required for this lab.
 
-# CSC 322 Lab 3 Specification:
+# Lab 3 Specification:
 This is your cache lab. It consists of implementing a cache simulator given various parameters, and then watching it perform under different circumstances. To make things simple, you'll only be dealing with reads.
 
 When your simulator starts, it should take from stdin (so no files are opened/closed/used in the project code) input in the following format:
@@ -48,4 +48,4 @@ For each address you read (except the final -1), output a line containing the ad
 
 Once you read -1, output on a single line the miss rate of the cache that you have calculated, followed by a space, followed by the total cycles spent during the simulation. Remember to complete this last output line with a newline character, then exit the simulation.
 
-# CSC 322 Lab 4 Specification:
+# Lab 4 Specification:
