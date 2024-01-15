@@ -24,39 +24,22 @@ After the above is read from stdin, the game should continue reading game comman
 Make sure you use as few globals as possible. You must not use global arrays or global structs; you are allowed to use up to three global pointers and a global int for the respect value.
 
 Here is an example input block:
-
 3
-
 0 -1 1 -1 2
-
 2 0 -1 -1 -1
-
 2 -1 -1 0 -1
-
 4
-
 1 0
-
 0 2
-
 2 2
-
 2 1
-
 look
-
 clean
-
 2:clean
-
 east
-
 look
-
 0:clean
-
 look
-
 exit
 
 To that input corresponds the following output:
