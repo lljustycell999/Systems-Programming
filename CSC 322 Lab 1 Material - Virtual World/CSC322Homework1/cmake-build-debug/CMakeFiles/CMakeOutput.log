@@ -1,0 +1,46 @@
+The system is: Darwin - 20.6.0 - arm64
+The system is: Darwin - 20.6.0 - arm64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId-dbb47349.o.tmp"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is AppleClang, found in "/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is AppleClang, found in "/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_28a50 && [1/2] Building C object CMakeFiles/cmTC_28a50.dir/testCCompiler.c.o
+[2/2] Linking C executable cmTC_28a50
+
+
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_889e1 && [1/2] Building C object CMakeFiles/cmTC_889e1.dir/testCCompiler.c.o
+[2/2] Linking C executable cmTC_889e1
+
+
+

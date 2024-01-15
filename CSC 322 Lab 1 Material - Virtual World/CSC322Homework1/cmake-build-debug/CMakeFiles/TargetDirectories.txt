@@ -1,0 +1,3 @@
+/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/CSC322Homework1.dir
+/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

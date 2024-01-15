@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/tinaj/Desktop/CSC 322 Material /CSC 322 Labs/CSC 322 Lab 3 Material - Cache Lab/Homework3" -B "/Users/tinaj/Desktop/CSC 322 Material /CSC 322 Labs/CSC 322 Lab 3 Material - Cache Lab/Homework3/cmake-build-debug"
+CMake Error at CMakeLists.txt:1:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "����".
+
+
+-- Configuring incomplete, errors occurred!

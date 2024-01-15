@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1" -B "/Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug"
+-- The C compiler identification is AppleClang 12.0.5.12050022
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/tinaj/Desktop/Spring 2023 Classes/CSC 322 Material - Systems Programming (Completed)/CSC 322 Labs/CSC 322 Lab 1 Material - Virtual World/CSC322Homework1/cmake-build-debug
