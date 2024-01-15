@@ -20,7 +20,7 @@ Make sure you use as few globals as possible. You must not use global arrays or 
 
 <img width="440" alt="Screen Shot 2024-01-15 at 2 43 50 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/1cad3368-27da-4faa-8fd3-9cf01a69771a">
 
-# Warning: There is an infinite loop bug in my project that occurs if the player decides to move in a direction that instantly takes you back to the same room you just left (For example, you are in room 0 and moving in a certain direction sends you back to room 0 immediately). 
+Warning: There is an infinite loop bug in my project that occurs if the player decides to move in a direction that instantly takes you back to the same room you just left (For example, you are in room 0 and moving in a certain direction sends you back to room 0 immediately). 
 
 # CSC 322 Lab 2 Specification:
 
