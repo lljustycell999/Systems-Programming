@@ -3,7 +3,7 @@ This repository contains the projects completed as part of a systems programming
 
 # Lab 1 Specification:
 
-You can find a complete description of the project in this pdf document (Lab 1 Notes.pdf).
+You can find a complete description of the project in this PDF document (Lab 1 Notes.pdf).
 <img width="1425" alt="Screenshot 2024-05-13 at 11 01 37 PM" src="https://github.com/lljustycell999/Systems-Programming/assets/123667513/3247fcf0-9c67-467a-a782-add20769169c">
 <img width="440" alt="Screen Shot 2024-01-15 at 2 43 50 PM" src="https://github.com/lljustycell999/CSC322/assets/123667513/1cad3368-27da-4faa-8fd3-9cf01a69771a">
 
